@@ -6,3 +6,4 @@ a minimum of 1 numeric character [0-9] and
 1 special character: ~`!@#$%^&*()-_+={}[]|\;:"<>,./?
 at least 1 upper case, numeric, and special character must be EMBEDDED somewhere in the middle of the password, and not just be the first or the last character of the password string. Only official mail will be accepted in the field of email (E.g. username college/universityname.in).
 For username Lock the keyboard whenever user try to enter digits# CAC_1_2147206
+LINK FOR DEMO : file:///C:/Users/adith/OneDrive/Desktop/contact-form-06/contact-form-06/index.html
